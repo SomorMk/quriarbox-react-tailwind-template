@@ -20,8 +20,8 @@ export default {
         'bg': '#FFF7E7',
       },
       backgroundImage: {
-        'delivery-bg': "url('./src/assets/Images/delivery-bg.jpg')",
-        'quote_icon': "url('./src/assets/Images/quote-icon.png')",
+        'delivery-bg': "url('/src/assets/Images/delivery-bg.jpg')",
+        'quote_icon': "url('/src/assets/Images/quote-icon.png')",
       },
     },
   },
